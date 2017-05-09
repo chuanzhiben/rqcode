@@ -6,6 +6,7 @@
     <color name="colorPrimary">#f46444</color>
     <color name="navigationBarColor">#f46444</color>
     <color name="scan_corner_color">#0effc2</color>
+    <color name="blue">#26A5FF</color>
 
     <color name="colorPrimaryDarkTrans">#CCf57257</color>
 </resources>
